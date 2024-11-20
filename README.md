@@ -13,3 +13,6 @@
 
 - **Frontend**: React.js, Tailwind CSS, Axios
 - **API**: StackExchange API for fetching questions
+
+- ### Link for the site
+- [stack overflow](https://stackoverfloow.netlify.app/)
